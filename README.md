@@ -2,6 +2,7 @@
 
 ![image](https://github.com/Sambor2511/nand/assets/76769524/37154770-7cd6-4779-ac1e-95a97ade0609)
 
+![image](https://github.com/Sambor2511/nand/assets/76769524/469cf28c-f907-4b07-a428-2126aa1d7454)
 
 OR Gate from AND and NOT
 
