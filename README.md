@@ -1,5 +1,8 @@
 # nand
 
+![image](https://github.com/Sambor2511/nand/assets/76769524/37154770-7cd6-4779-ac1e-95a97ade0609)
+
+
 OR Gate from AND and NOT
 
 ![image](https://github.com/Sambor2511/nand/assets/76769524/b849a93e-32f7-40af-a1ee-c48be2395594)
@@ -19,3 +22,7 @@ Logic Gate
 ![image](https://github.com/Sambor2511/nand/assets/76769524/022d152a-6e5f-4390-ac74-3c62d99e054a)
 
 ![image](https://github.com/Sambor2511/nand/assets/76769524/e2eb8af1-6bd3-4390-8fe1-dc59b9be446d)
+
+Array of bits is called bus
+
+![image](https://github.com/Sambor2511/nand/assets/76769524/5a9f5fb3-9e2a-4a75-ba3e-188d082464a1)
